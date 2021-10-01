@@ -10,7 +10,7 @@ keyword can be used in flows:
 
   .. attention::
     The ``fetch`` function used in the example below is a browser only function,
-    switch to the Node tab to see how you can run this example when targetting Node.
+    switch to the Node tab to see how you can run this example when targeting Node.
 
   .. playground::
     :height: 400
@@ -50,7 +50,7 @@ It can also be used outside flows:
 
   .. attention::
     The ``fetch`` function used in the example below is a browser only function,
-    switch to the Node tab to see how you can run this example when targetting Node.
+    switch to the Node tab to see how you can run this example when targeting Node.
 
   .. playground::
     :height: 400
@@ -91,7 +91,7 @@ Clio also supports ``[await]`` keyword, which translates to
 
   .. attention::
     The ``fetch`` function used in the example below is a browser only function,
-    switch to the Node tab to see how you can run this example when targetting Node.
+    switch to the Node tab to see how you can run this example when targeting Node.
 
   .. playground::
     :height: 600
